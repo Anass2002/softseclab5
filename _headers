@@ -2,3 +2,5 @@
 /*
 ## the actual header:
  Test-header: testvalue;
+ Content-Security-Policy: default-src 'self'; script-src 'self'
+
